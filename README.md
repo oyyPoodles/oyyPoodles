@@ -5,7 +5,7 @@
 <h2 align="center">Hey there! I'm Ujjwal 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=500&color=13B6F7&center=true&vCenter=true&width=380&height=45&lines=AI+Engineer+%7C+ML+Explorer+%7C+Hackathon+Builder" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=500&color=13B6F7&center=true&vCenter=true&width=380&height=45&lines=AI+Engineer+%7C+Researcher+%7C+ML+Explorer;Always+learning+and+building+%F0%9F%9A%80;Welcome+to+my+GitHub+world!" alt="Typing SVG" />
 </p>
 
 ---
