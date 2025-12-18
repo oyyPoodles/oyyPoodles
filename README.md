@@ -36,6 +36,7 @@
 
 ### 🌱 Affiliations
 
+- 👥 Principal AI System Architect @Voreal.AI
 - 👥 Team Envision – ML + Editorial  
 - 🛰️ Agnivaara Space Program  
 - 🏏 Sports Organizer | Tech Speaker
