@@ -36,7 +36,8 @@
 
 ### 🌱 Affiliations
 
-- 👥 Principal AI System Architect @Voreal.AI
+- 👥 Founder
+- 👥 CEO @MikoAI
 - 👥 Team Envision – ML + Editorial  
 - 🛰️ Agnivaara Space Program  
 - 🏏 Sports Organizer | Tech Speaker
