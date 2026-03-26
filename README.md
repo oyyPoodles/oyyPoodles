@@ -9,7 +9,8 @@
 </p>
 
 ---
-
+🚀 Founder @Neuroblyx
+⚜️ CEO @MikoAI by Artistic Impression 
 🎓 AI/ML undergrad from Nepal 🇳🇵, studying at SRM, India 🇮🇳  
 🧠 Passionate about AI that *thinks*, *talks*, and *learns*  
 🏆 COMPEX Scholar | Hackathon Enthusiast | Builder at heart
