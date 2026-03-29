@@ -180,20 +180,19 @@ Goal   : Democratize Compute
 
 <p align="center"><sub><b>── Languages ──</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,cpp,c&perline=7" height="46"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,c&perline=7" height="46"/>
 </p>
 
 <p align="center"><sub><b>── Frameworks & APIs ──</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nodejs,fastapi,graphql,tailwind&perline=6" height="46"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,tailwind&perline=6" height="46"/>
 </p>
 
 <p align="center"><sub><b>── AI / ML ──</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" height="46"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,spicy,tensorflow&perline=6" height="46"/>
   &nbsp;
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazonaws&logoColor=white&style=flat-square" height="28"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" height="28"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square" height="28"/>
   <img src="https://img.shields.io/badge/RAG-Pipeline-58A6FF?style=flat-square" height="28"/>
@@ -201,7 +200,7 @@ Goal   : Democratize Compute
 
 <p align="center"><sub><b>── Infrastructure & DevOps ──</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,firebase,linux,figma&perline=7" height="46"/>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,firebase,linux,figma&perline=7" height="46"/>
 </p>
 
 ---
