@@ -88,21 +88,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌐 ARTISTICIMPRESSION.ORG-21262d?style=flat-square"/>
-  <a href="https://artisticimpression.org">
-    <img src="https://img.shields.io/badge/VISIT-7c3aed?style=flat-square"/>
-  </a>
+  <a href="https://artisticimpression.org"><img src="https://img.shields.io/badge/VISIT-7c3aed?style=flat-square"/></a>
 </p>
 
 ```
-Domain  : AI Research & Creative
-Status  : 🟢 Active
-Role    : CEO
-Focus   : Human-Aligned AI Systems
+Domain : AI Research & Creative
+Status : 🟢 Active
+Role   : CEO
+Focus  : Human-Aligned AI
 ```
 
-<p align="center">Context-aware reasoning, adaptive generative intelligence, and human-aligned AI design. Where research meets creativity.</p>
+<p align="center">Context-aware reasoning and adaptive generative intelligence. Where human-aligned research meets creativity.</p>
 
-<p><strong>Key Pillars:</strong></p>
+<p align="center"><strong>Key Pillars:</strong></p>
 
 - 🧩 LLM Research & Alignment
 - 🎨 Creative AI Pipelines
@@ -119,21 +117,19 @@ Focus   : Human-Aligned AI Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌐 NARAD.AMPLIFYAPP.COM-21262d?style=flat-square"/>
-  <a href="https://main.dlf5o2e741xry.amplifyapp.com">
-    <img src="https://img.shields.io/badge/VISIT-1f6feb?style=flat-square"/>
-  </a>
+  <a href="https://main.dlf5o2e741xry.amplifyapp.com"><img src="https://img.shields.io/badge/VISIT-1f6feb?style=flat-square"/></a>
 </p>
 
 ```
-Domain  : GenAI News Intelligence
-Status  : 🔵 Live
-Role    : Founder 
-Tech    : FastAPI · Bedrock · RAG
+Domain : GenAI News Intelligence
+Status : 🔵 Live
+Role   : Founder & CEO
+Tech   : FastAPI · RAG · AWS
 ```
 
-<p align="center">Multilingual GenAI platform analyzing 80+ news sources in real time — delivering contextual, bias-aware intelligence at scale.</p>
+<p align="center">Multilingual GenAI platform analyzing 80+ news sources — delivering contextual, bias-aware intelligence at scale.</p>
 
-<p><strong>Core Features:</strong></p>
+<p align="center"><strong>Core Features:</strong></p>
 
 - 📡 80+ Live News Sources
 - 🌐 Multilingual AI Processing
@@ -150,21 +146,19 @@ Tech    : FastAPI · Bedrock · RAG
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌐 NEUROBLYX.COM-21262d?style=flat-square"/>
-  <a href="https://www.neuroblyx.com">
-    <img src="https://img.shields.io/badge/VISIT-238636?style=flat-square"/>
-  </a>
+  <a href="https://www.neuroblyx.com"><img src="https://img.shields.io/badge/VISIT-238636?style=flat-square"/></a>
 </p>
 
 ```
-Domain   : Distributed AI Compute
-Status   : 🟢 Active Build
-Role     : Founder & Chief Engineering / Execution Leasd
-Mission  : Democratize GPU Compute
+Domain : Distributed AI Compute
+Status : 🟢 Active Build
+Role   : Founder & Chief Engineering
+Goal   : Democratize Compute
 ```
 
-<p align="center">Distributed GPU compute marketplace connecting AI researchers & startups with affordable compute power for training and inference.</p>
+<p align="center">Distributed GPU marketplace connecting AI researchers & startups with affordable compute for training and inference.</p>
 
-<p><strong>Core Services:</strong></p>
+<p align="center"><strong>Core Services:</strong></p>
 
 - ⚡ GPU-as-a-Service for AI
 - 📊 Real-Time Resource Monitor
