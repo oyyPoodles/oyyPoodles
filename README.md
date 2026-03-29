@@ -152,7 +152,7 @@ Tech   : FastAPI · RAG · AWS
 ```
 Domain : Distributed AI Compute
 Status : 🟢 Active Build
-Role   : Founder & Chief Engineering
+Role   : Founder & Execution Lead
 Goal   : Democratize Compute
 ```
 
