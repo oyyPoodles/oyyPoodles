@@ -158,7 +158,7 @@ Tech    : FastAPI · Bedrock · RAG
 ```
 Domain   : Distributed AI Compute
 Status   : 🟢 Active Build
-Role     : Founder 
+Role     : Founder & Chief Engineering / Execution Leasd
 Mission  : Democratize GPU Compute
 ```
 
@@ -218,31 +218,14 @@ Mission  : Democratize GPU Compute
 
 ## 📊 GitHub Stats
 
-<!-- Streak — most reliable widget, works consistently -->
+<!-- Streak Stats — reliable -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oyyPoodles&theme=tokyonight&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=oyyPoodles&theme=tokyonight&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="65%"/>
 </p>
 
-<!-- Stats + Top Langs side by side — tokyonight theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyyPoodles&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&icon_color=58A6FF" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyyPoodles&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="160"/>
-</p>
-
-<!-- Activity Graph -->
+<!-- Activity Graph — reliable -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyyPoodles&theme=tokyo-night&hide_border=true&area=true&radius=6&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=oyyPoodles&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6" />
-</p>
-
-<!-- Snake / Pacman -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oyyPoodles/oyyPoodles/output/pacman-contribution-graph.svg"/>
 </p>
 
 ---
